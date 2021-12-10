@@ -12,7 +12,7 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - XiaoMi/mace-models: Mobile AI Compute Engine Model Zoo [[GitHub]](https://github.com/XiaoMi/mace-models)
 - Tencent/nccn: ncnn is a high-performance neural network inference computing framework optimized for mobile platforms. [[Github]](https://github.com/Tencent/ncnn)
 - Tencent/TNN: [[Github]](https://github.com/Tencent/TNN)
-- SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis [[Github]](https://github.com/tianrengao/SqueezeWave)
+- SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis [[Github]](https://github.com/tianrengao/SqueezeWave)[[Paper]](https://arxiv.org/abs/2001.05685)
 ## Survey
 
 -  Convergence of edge computing and deep learning: A comprehensive survey. [[Paper]](https://arxiv.org/pdf/1907.08349)
