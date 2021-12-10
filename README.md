@@ -90,6 +90,10 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - DeepThings: Distributed Adaptive Deep Learning Inference on Resource-Constrained IoT Edge Clusters. [[Paper]](https://ieeexplore.ieee.org/document/8493499)
     - Zhao, Z., Barijough, K. M., & Gerstlauer, A. 
     - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 37(11), 2348-2359.(2018). 
+- Scaling for edge inference of deep neural networks. [[Paper]](https://www.nature.com/articles/s41928-018-0059-3)
+    - Bingqian Lu, Jianyi Yang, Shaolei Ren
+    - ACM/IEEE Symposium on Edge Computing 2020
+
 
 ## Fog AI Paper
 
