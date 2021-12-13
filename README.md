@@ -100,3 +100,8 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - Fogflow: Easy programming of iot services over cloud and edges for smart cities. [[Paper]](https://ieeexplore.ieee.org/document/8022859) [[GitHub]](https://github.com/smartfog/fogflow)
   - Cheng, Bin, Gürkan Solmaz, Flavio Cirillo, Ernö Kovacs, Kazuyuki Terasawa, and Atsushi Kitazawa.
   - IEEE Internet of Things Journal 5, no. 2 (2017): 696-707.
+
+## Blog
+
+
+-【优质信源】计划10--边缘智能综述（edge intelligence)[[Zhihu]](https://zhuanlan.zhihu.com/p/145439319)
