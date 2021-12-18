@@ -1,8 +1,21 @@
 # Awesome-System-for-Edge-Computing-and-Intelligence
 A curated list of research in System for Edge Intelligence and Computing(Edge MLSys), including Frameworks, Tools, Repository, etc. Paper notes are also provided.
 
+## Contents
+- [Tutorial](#tutorial)
+- [Project](#project)
+- [Survey](#survey)
+- [Cloud-Edge Collaborative Training](#cloud-edge-collaborative-training)
+- [Edge-Caching for Sharing of DL Computation](#edge-caching-for-sharing-of-dl-computation)
+- [Cloud-Edge Collaborative Inference](#cloud-edge-collaborative-inference)
+- [Selection and Optimization of DL Models in Edge](#selection-and-optimization-of-dl-models-in-edge)
+- [Real-time Applications Based on Edge-Cloud Intelligence](#real-time-applications-based-on-edge-cloud-intelligence)
+- [To be categorized](#to-be-categorized)
+- [Fog AI ](#fog-ai)
+- [Blog](#blog)
+## Tutorial
 
-## Project
+## Project:
 
 - deepC is a vendor independent deep learning library, compiler and inference framework designed for small form-factor devices including μControllers, IoT and Edge devices[[GitHub]](https://github.com/ai-techsystems/deepC)
 - Tengine, developed by OPEN AI LAB, is an AI application development platform for AIoT scenarios launched by OPEN AI LAB, which is dedicated to solving the fragmentation problem of aiot industrial chain and accelerating the landing of AI industrialization. [[GitHub]](https://github.com/OAID/Tengine)
@@ -14,7 +27,7 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - Tencent/TNN: [[Github]](https://github.com/Tencent/TNN)
 - SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis [[GitHub]](https://github.com/tianrengao/SqueezeWave)[[Paper]](https://arxiv.org/abs/2001.05685)
 - Kubeedge: A Kubernetes Native Edge Computing Framework [[GitHub]](https://github.com/kubeedge/kubeedge)
-## Survey
+## Survey:
 
 -  Convergence of edge computing and deep learning: A comprehensive survey. [[Paper]](https://arxiv.org/pdf/1907.08349)
     - Wang, X., Han, Y., Leung, V. C., Niyato, D., Yan, X., & Chen, X. (2020).
@@ -33,8 +46,19 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
     - IEEE Communications Surveys & Tutorials, vol. 19, no. 3, pp. 1628-1656, thirdquarter 2017
 
 
-## Edge AI Paper
+## Paper:
 
+### Cloud-Edge Collaborative Training
+
+### Cloud-Edge Collaborative Inference
+
+### Edge-Caching for Sharing of DL Computation
+
+### Selection and Optimization of DL Models in Edge
+
+### Real-time Applications Based on Edge-Cloud Intelligence
+
+### To be categorized
 - Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[GitHub]](https://arxiv.org/pdf/2001.06901.pdf)
     - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
     - arXiv preprint arXiv:2001.06901. 
@@ -99,8 +123,7 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
     - Bingqian Lu, Jianyi Yang, Shaolei Ren
     - ACM/IEEE Symposium on Edge Computing 2020
 
-
-## Fog AI Paper
+### Fog AI 
 
 - Fogflow: Easy programming of iot services over cloud and edges for smart cities. [[Paper]](https://ieeexplore.ieee.org/document/8022859) [[GitHub]](https://github.com/smartfog/fogflow)
   - Cheng, Bin, Gürkan Solmaz, Flavio Cirillo, Ernö Kovacs, Kazuyuki Terasawa, and Atsushi Kitazawa.
