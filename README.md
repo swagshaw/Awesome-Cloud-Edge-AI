@@ -28,6 +28,10 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - Machine Learning at Facebook: Understanding Inference at the Edge. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8675201)
     - Wu, C., Brooks, D., Chen, K., Chen, D., Choudhury, S., Dukhan, M., ... & Zhang, P. 
     - high-performance computer architecture.(2019). 
+- Mobile Edge Computing: A Survey on Architecture and Computation Offloading. [[Paper]](https://ieeexplore.ieee.org/document/7879258)
+    - P. Mach and Z. Becvar.
+    - IEEE Communications Surveys & Tutorials, vol. 19, no. 3, pp. 1628-1656, thirdquarter 2017
+
 
 ## Edge AI Paper
 
