@@ -1,3 +1,7 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 # Awesome-System-for-Edge-Computing-and-Intelligence
 A curated list of research in System for Edge Intelligence and Computing(Edge MLSys), including Frameworks, Tools, Repository, etc. Paper notes are also provided.
 
