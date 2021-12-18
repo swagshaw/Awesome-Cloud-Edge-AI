@@ -94,7 +94,9 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - Scaling for edge inference of deep neural networks. [[Paper]](https://www.nature.com/articles/s41928-018-0059-3)
     - Bingqian Lu, Jianyi Yang, Shaolei Ren
     - ACM/IEEE Symposium on Edge Computing 2020
-
+- Canoe : A System for Collaborative Learning for Neural Nets
+    - Harshit Daga, Yiwen Chen, Aastha Agrawal, Ada Gavrilovska
+    - arXiv preprint arXiv:2108.12124.(2021).
 
 ## Fog AI Paper
 
