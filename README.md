@@ -63,7 +63,7 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 ### Real-time Applications Based on Edge-Cloud Intelligence
 
 ### To be categorized
-- Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[GitHub]](https://arxiv.org/pdf/2001.06901.pdf)
+- Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[Paper]](https://arxiv.org/pdf/2001.06901.pdf)
     - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
     - arXiv preprint arXiv:2001.06901. 
 - Latency and Throughput Characterization of Convolutional Neural Networks for Mobile Computer Vision [[Paper]](https://arxiv.org/pdf/1803.09492.pdf)
