@@ -14,7 +14,6 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - [Cloud-Edge Collaborative Inference](#cloud-edge-collaborative-inference)
 - [Selection and Optimization of DL Models in Edge](#selection-and-optimization-of-dl-models-in-edge)
 - [Real-time Applications Based on Edge-Cloud Intelligence](#real-time-applications-based-on-edge-cloud-intelligence)
-- [To be categorized](#to-be-categorized)
 - [Fog AI ](#fog-ai)
 - [Blog](#blog)
 ## Tutorial
@@ -54,21 +53,17 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 
 ### Cloud-Edge Collaborative Training
 
+- Collaborative learning between cloud and end devices: an empirical study on location prediction. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/sec19colla.pdf)
+    - Lu, Y., Shu, Y., Tan, X., Liu, Y., Zhou, M., Chen, Q., & Pei, D.
+    - ACM/IEEE Symposium on Edge Computing(2019)
+- Distributed Machine Learning through Heterogeneous Edge Systems.[[Paper]](https://i2.cs.hku.hk/~cwu/papers/hphu-aaai20.pdf)
+    - Hu, H., Wang, D., & Wu, C. (2020). 
+    - In AAAI (pp. 7179-7186).
+
 ### Cloud-Edge Collaborative Inference
-
-### Edge-Caching for Sharing of DL Computation
-
-### Selection and Optimization of DL Models in Edge
-
-### Real-time Applications Based on Edge-Cloud Intelligence
-
-### To be categorized
 - Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[Paper]](https://arxiv.org/pdf/2001.06901.pdf)
     - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
     - arXiv preprint arXiv:2001.06901. 
-- Latency and Throughput Characterization of Convolutional Neural Networks for Mobile Computer Vision [[Paper]](https://arxiv.org/pdf/1803.09492.pdf)
-    - Hanhirova, J., Kämäräinen, T., Seppälä, S., Siekkinen, M., Hirvisalo, V. and Ylä-Jääski
-    - In Proceedings of the 9th ACM Multimedia Systems Conference (pp. 204-215).
 - Characterizing the Deep Neural Networks Inference Performance of Mobile Applications. [[Paper]](https://arxiv.org/pdf/1909.04783.pdf)
     - Ogden, S.S. and Guo, T., 2019.
     - arXiv preprint arXiv:1909.04783.
@@ -77,44 +72,22 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
     - In ACM SIGARCH Computer Architecture News (Vol. 45, No. 1, pp. 615-629). ACM.
 - 26ms Inference Time for ResNet-50: Towards Real-Time Execution of all DNNs on Smartphone [[Paper]](https://arxiv.org/pdf/1905.00571.pdf)
     - Wei Niu, Xiaolong Ma, Yanzhi Wang, Bin Ren (*ICML2019*)
-- NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision [[Paper]]()
-    - Fang, Biyi, Xiao Zeng, and Mi Zhang. (*MobiCom 2018*)
-    - Summary: Borrow some ideas from network prune. The pruned model then recovers to trade-off computation resource and accuracy at runtime
-- Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
-    - Yi, Shanhe, et al. (*Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*)
-- Scaling Video Analytics on Constrained Edge Nodes [[Paper]](http://www.sysml.cc/doc/2019/197.pdf) [[GitHub]](https://github.com/viscloud/filterforward)
-    - Canel, C., Kim, T., Zhou, G., Li, C., Lim, H., Andersen, D. G., Kaminsky, M., and Dulloo (*SysML 2019*)
-- Big/little deep neural network for ultra low power inference.
+- Big/little deep neural network for ultra low power inference.[[Paper]](https://ieeexplore.ieee.org/document/7331375?reload=true)
     - Park, E., Kim, D. Y., Kim, S., Kim, Y. M., Kim, G., Yoon, S., & Yoo, S.
     - international conference on hardware/software codesign and system synthesis.(2015)
-- Collaborative learning between cloud and end devices: an empirical study on location prediction. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/sec19colla.pdf)
-    - Lu, Y., Shu, Y., Tan, X., Liu, Y., Zhou, M., Chen, Q., & Pei, D.
-    - ACM/IEEE Symposium on Edge Computing(2019)
-- Context-Aware Convolutional Neural Network over Distributed System in Collaborative Computing. [[Paper]](https://dl.acm.org/doi/10.1145/3316781.3317792)
-    - Choi, J., Hakimi, Z., Shin, P. W., Sampson, J., & Narayanan, V. (2019). 
-    - design automation conference.
-- OpenEI: An Open Framework for Edge Intelligence. [[Paper]](https://arxiv.org/pdf/1906.01864.pdf)
-    - Zhang, X., Wang, Y., Lu, S., Liu, L., Xu, L., & Shi, W. 
-    - international conference on distributed computing systems.(2019). 
-- Swing: Swarm Computing for Mobile Sensing.[[Paper]](http://people.duke.edu/~bcl15/documents/fan18-icdcs.pdf)
-    - Fan, S., Salonidis, T., & Lee, B. C.  
-    - international conference on distributed computing systems(2018).
-- Bottlenet++: An end-to-end approach for feature compression in device-edge co-inference systems. [[Paper]](https://arxiv.org/pdf/1910.14315.pdf)
-    - Shao, J., & Zhang, J. 
-    - In 2020 IEEE International Conference on Communications Workshops (ICC Workshops) (pp. 1-6). IEEE.(2020, June). 
 - JointDNN: an efficient training and inference engine for intelligent mobile cloud computing services. [[Paper]](https://arxiv.org/pdf/1801.08618.pdf)
     - Eshratifar, A. E., Abrishami, M. S., & Pedram, M.  
     - IEEE Transactions on Mobile Computing.(2019).
 - TeamNet: A Collaborative Inference Framework on the Edge. 
     - Fang, Y., Jin, Z., & Zheng, R.
     - In 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS) (pp. 1487-1496). IEEE. (2019, July). 
+- Bottlenet++: An end-to-end approach for feature compression in device-edge co-inference systems. [[Paper]](https://arxiv.org/pdf/1910.14315.pdf)
+    - Shao, J., & Zhang, J. 
+    - In 2020 IEEE International Conference on Communications Workshops (ICC Workshops) (pp. 1-6). IEEE.(2020, June). 
 - Distributing deep neural networks with containerized partitions at the edge. [[Paper]](https://www.usenix.org/system/files/hotedge19-paper-zhou.pdf)
     - Zhou, L., Wen, H., Teodorescu, R., & Du, D. H. (2019). 
     - In 2nd {USENIX} Workshop on Hot Topics in Edge Computing (HotEdge 19).
-- Distributed Machine Learning through Heterogeneous Edge Systems.[[Paper]](https://i2.cs.hku.hk/~cwu/papers/hphu-aaai20.pdf)
-    - Hu, H., Wang, D., & Wu, C. (2020). 
-    - In AAAI (pp. 7179-7186).
-- Dynamic adaptive DNN surgery for inference acceleration on the edge. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8737614/)
+ - Dynamic adaptive DNN surgery for inference acceleration on the edge. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8737614/)
     - Hu, C., Bao, W., Wang, D., & Liu, F. (2019, April). 
     - In IEEE INFOCOM 2019-IEEE Conference on Computer Communications (pp. 1423-1431). IEEE.
 - Collaborative execution of deep neural networks on internet of things devices. [[Paper]](https://arxiv.org/pdf/1901.02537)
@@ -126,7 +99,29 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - Scaling for edge inference of deep neural networks. [[Paper]](https://www.nature.com/articles/s41928-018-0059-3)
     - Bingqian Lu, Jianyi Yang, Shaolei Ren
     - ACM/IEEE Symposium on Edge Computing 2020
+- Swing: Swarm Computing for Mobile Sensing.[[Paper]](http://people.duke.edu/~bcl15/documents/fan18-icdcs.pdf)
+    - Fan, S., Salonidis, T., & Lee, B. C.  
+    - international conference on distributed computing systems(2018).
+### Edge-Caching for Sharing of DL Computation
 
+### Selection and Optimization of DL Models in Edge
+- Context-Aware Convolutional Neural Network over Distributed System in Collaborative Computing. [[Paper]](https://dl.acm.org/doi/10.1145/3316781.3317792)
+    - Choi, J., Hakimi, Z., Shin, P. W., Sampson, J., & Narayanan, V. (2019). 
+    - design automation conference.
+- OpenEI: An Open Framework for Edge Intelligence. [[Paper]](https://arxiv.org/pdf/1906.01864.pdf)
+    - Zhang, X., Wang, Y., Lu, S., Liu, L., Xu, L., & Shi, W. 
+    - international conference on distributed computing systems.(2019). 
+### Real-time Applications Based on Edge-Cloud Intelligence
+- Latency and Throughput Characterization of Convolutional Neural Networks for Mobile Computer Vision [[Paper]](https://arxiv.org/pdf/1803.09492.pdf)
+    - Hanhirova, J., Kämäräinen, T., Seppälä, S., Siekkinen, M., Hirvisalo, V. and Ylä-Jääski
+    - In Proceedings of the 9th ACM Multimedia Systems Conference (pp. 204-215).
+- NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision [[Paper]](https://arxiv.org/pdf/1810.10090.pdf)
+    - Fang, Biyi, Xiao Zeng, and Mi Zhang. (*MobiCom 2018*)
+    - Summary: Borrow some ideas from network prune. The pruned model then recovers to trade-off computation resource and accuracy at runtime
+- Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
+    - Yi, Shanhe, et al. (*Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*)
+- Scaling Video Analytics on Constrained Edge Nodes [[Paper]](http://www.sysml.cc/doc/2019/197.pdf) [[GitHub]](https://github.com/viscloud/filterforward)
+    - Canel, C., Kim, T., Zhou, G., Li, C., Lim, H., Andersen, D. G., Kaminsky, M., and Dulloo (*SysML 2019*)
 ### Fog AI 
 
 - Fogflow: Easy programming of iot services over cloud and edges for smart cities. [[Paper]](https://ieeexplore.ieee.org/document/8022859) [[GitHub]](https://github.com/smartfog/fogflow)
