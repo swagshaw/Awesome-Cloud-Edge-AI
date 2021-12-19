@@ -101,9 +101,41 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
     - ACM/IEEE Symposium on Edge Computing 2020
 - Swing: Swarm Computing for Mobile Sensing.[[Paper]](http://people.duke.edu/~bcl15/documents/fan18-icdcs.pdf)
     - Fan, S., Salonidis, T., & Lee, B. C.  
-    - international conference on distributed computing systems(2018).
+    - international conference on distributed computing systems(2018).[[Paper]](
+- A Locally Distributed Mobile Computing Framework for DNN based Android Applications.[[Paper]](https://dl.acm.org/doi/10.1145/3275219.3275236)
+    - Jiajun Zhang, Shihong Chen, Bichun Liu, Yun Ma, Xing Chen
+    - Internetware 2018: 17:1-17:6
+- Auto-tuning Neural Network Quantization Framework for Collaborative Inference Between the Cloud and Edge.[[Paper]](https://arxiv.org/abs/1812.06426)
+    - Guangli Li, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng
+    - ICANN (1) 2018: 402-411
+- DeepX: a software accelerator for low-power deep learning inference on mobile devices.[[Paper]](https://ieeexplore.ieee.org/document/7460664)
+    - Nicholas D. Lane, Sourav Bhattacharya, Petko Georgiev, Claudio Forlivesi, Lei Jiao, Lorena Qendro, Fahim Kawsar
+    - IPSN 2016: 23:1-23:12
+- ECRT: An Edge Computing System for Real-Time Image-based Object Tracking. [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3275199)
+    - Zhihe Zhao, Zhehao Jiang, Neiwen Ling, Xian Shuai, Guoliang Xing
+    - SenSys 2018: 394-395
+- Learning IoT in Edge: Deep Learning for the Internet of Things with Edge Computing[[Paper]](https://ieeexplore.ieee.org/document/8270639)
+    - He Li, Kaoru Ota, Mianxiong Dong
+    - IEEE Netw. 32(1): 96-101 (2018)
 ### Edge-Caching for Sharing of DL Computation
-
+- Hierarchical Edge Caching in Device-to-Device Aided Mobile Networks: Modeling, Optimization, and Design. [[Paper]](https://ieeexplore.ieee.org/document/8374077)
+    - Xiuhua Li, Xiaofei Wang, Peng-Jun Wan, Zhu Han, Victor C. M. Leung
+    -  IEEE J. Sel. Areas Commun. 36(8): 1768-1785 (2018)
+- DeepCachNet: A Proactive Caching Framework Based on Deep Learning in Cellular Networks[[Paper]](https://ieeexplore.ieee.org/document/8642795)
+    - Shailendra Rathore, Jung Hyun Ryu, Pradip Kumar Sharma, Jong Hyuk Park
+    -  IEEE Netw. 33(3): 130-138 (2019)
+- Deep learning-based edge caching for multi-cluster heterogeneous networks[[Paper]](Deep learning-based edge caching for multi-cluster heterogeneous networks)
+    - 	Jiachen Yang, Jipeng Zhang, Chaofan Ma, Huihui Wang, Juping Zhang, Gan Zheng
+    - 	Neural Comput. Appl. 32(19): 15317-15328 (2020)
+- Learn to Cache: Machine Learning for Network Edge Caching in the Big Data Era[[Paper]](https://ieeexplore.ieee.org/document/8403948)
+    - Zheng Chang, Lei Lei, Zhenyu Zhou, Shiwen Mao, Tapani Ristaniemi
+    - IEEE Wirel. Commun. 25(3): 28-35 (2018)
+- Deep Learning Based Caching for Self-Driving Car in Multi-access Edge Computing[[Paper]](https://arxiv.org/abs/1810.01548)
+    - 	Anselme Ndikumana, Nguyen H. Tran, DoHyeon Kim, Ki Tae Kim, Choong Seon Hong
+    - 	IEEE Trans. Intell. Transp. Syst. 22(5): 2862-2877 (2021)
+- A smart caching mechanism for mobile multimedia in information centric networking with edge computing[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18311841?via%3Dihub)
+    - 	Yayuan Tang, Kehua Guo, Jianhua Ma, Yutong Shen, Tao Chi
+    - 	Future Gener. Comput. Syst. 91: 590-600 (2019)
 ### Selection and Optimization of DL Models in Edge
 - Context-Aware Convolutional Neural Network over Distributed System in Collaborative Computing. [[Paper]](https://dl.acm.org/doi/10.1145/3316781.3317792)
     - Choi, J., Hakimi, Z., Shin, P. W., Sampson, J., & Narayanan, V. (2019). 
