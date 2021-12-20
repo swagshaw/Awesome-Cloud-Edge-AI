@@ -70,6 +70,7 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - Neurosurgeon: Collaborative intelligence between the cloud and mobile edge. [[Paper]](http://web.eecs.umich.edu/~jahausw/publications/kang2017neurosurgeon.pdf)
     - Kang, Y., Hauswald, J., Gao, C., Rovinski, A., Mudge, T., Mars, J. and Tang, L., 2017, April. 
     - In ACM SIGARCH Computer Architecture News (Vol. 45, No. 1, pp. 615-629). ACM.
+    - [[My note]](https://c7i8iaoaz8.larksuite.com/docs/docusjAzPzX9S0MyRa3iaex6Ewd)
 - 26ms Inference Time for ResNet-50: Towards Real-Time Execution of all DNNs on Smartphone [[Paper]](https://arxiv.org/pdf/1905.00571.pdf)
     - Wei Niu, Xiaolong Ma, Yanzhi Wang, Bin Ren (*ICML2019*)
 - Big/little deep neural network for ultra low power inference.[[Paper]](https://ieeexplore.ieee.org/document/7331375?reload=true)
