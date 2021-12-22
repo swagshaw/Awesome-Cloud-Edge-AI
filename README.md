@@ -16,8 +16,13 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - [Real-time Applications Based on Edge-Cloud Intelligence](#real-time-applications-based-on-edge-cloud-intelligence)
 - [Fog AI ](#fog-ai)
 - [Blog](#blog)
-## Tutorial
-
+## Tutorial and Video
+- Overview of edge computing in LinkedIn. [[LinkedIn]](https://www.linkedin.com/learning/iot-foundations-operating-system-applications/overview-of-edge-computing?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=43752620)
+- IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies. [[Coursera]](https://www.coursera.org/lecture/iot-wireless-cloud-computing/5-10-edge-computing-pOK8T)
+- Udemy Introduction to Edge Computing. [[Udemy]](https://www.udemy.com/course/introduction-to-edge-computing/)
+- IOT Edge Computing | IoT Examples | Use Cases | HackerEarth Webinar.[[Youtube]](https://www.youtube.com/watch?v=Xm8frqTZRVI)
+- Intel® Edge AI for IoT Developers [[Udacity]](https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
+- Stanford Seminar - The Future of Edge Computing from an International Perspective. [[Youtube]](https://www.youtube.com/watch?v=Hhobq4fs87w)
 ## Project:
 
 - deepC is a vendor independent deep learning library, compiler and inference framework designed for small form-factor devices including μControllers, IoT and Edge devices[[GitHub]](https://github.com/ai-techsystems/deepC)
@@ -165,3 +170,6 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 
 
 -【优质信源】计划10--边缘智能综述（edge intelligence)[[Zhihu]](https://zhuanlan.zhihu.com/p/145439319)
+- AI edge engineer [[Blog]](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/)
+- Advance your edge computing skills with three new AWS Snowcone courses[[Blog]](https://aws.amazon.com/cn/blogs/training-and-certification/advance-your-edge-computing-skills-with-three-new-aws-snowcone-courses/)
+- 
