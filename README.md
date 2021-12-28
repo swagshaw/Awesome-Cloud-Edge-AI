@@ -59,7 +59,9 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 ### Blog
 
 -【优质信源】计划10--边缘智能综述（edge intelligence)[[Zhihu]](https://zhuanlan.zhihu.com/p/145439319)
+
 - AI edge engineer [[Blog]](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/)
+
 - Advance your edge computing skills with three new AWS Snowcone courses[[Blog]](https://aws.amazon.com/cn/blogs/training-and-certification/advance-your-edge-computing-skills-with-three-new-aws-snowcone-courses/)
 
 ## Paper:
