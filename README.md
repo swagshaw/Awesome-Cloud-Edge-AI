@@ -63,7 +63,7 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 - AI edge engineer [[Blog]](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/)
 
 - Advance your edge computing skills with three new AWS Snowcone courses[[Blog]](https://aws.amazon.com/cn/blogs/training-and-certification/advance-your-edge-computing-skills-with-three-new-aws-snowcone-courses/)
-
+- How fast is my model? [[Blog]](https://machinethink.net/blog/how-fast-is-my-model/)
 ## Paper:
 
 ### Cloud-Edge Collaborative Training
