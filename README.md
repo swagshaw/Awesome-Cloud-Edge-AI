@@ -58,7 +58,7 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
 
 ### Blog
 
--【优质信源】计划10--边缘智能综述（edge intelligence)[[Zhihu]](https://zhuanlan.zhihu.com/p/145439319)
+- 边缘智能综述（edge intelligence)[[Zhihu]](https://zhuanlan.zhihu.com/p/145439319)
 
 - AI edge engineer [[Blog]](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/)
 
