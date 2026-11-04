@@ -76,6 +76,9 @@ A curated list of research in System for Edge Intelligence and Computing(Edge ML
     - In AAAI (pp. 7179-7186).
 
 ### Cloud-Edge Collaborative Inference
+- Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution. [[Paper]](https://arxiv.org/abs/2610.17816)
+    - Huang, P., Liu, Z., Ren, S., Yu, S., Yao, S., Yan, Y., Xiao, C. and Sun, M., 2026.
+    - arXiv preprint arXiv:2610.17816.
 - Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[Paper]](https://arxiv.org/pdf/2001.06901.pdf)
     - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
     - arXiv preprint arXiv:2001.06901. 
